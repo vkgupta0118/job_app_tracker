@@ -25,3 +25,4 @@ coverage/
 # Claude personal/local overrides
 .claude/settings.local.json
 .claude
+PLAN.md
